@@ -22,7 +22,7 @@ site:
   options:
     # index: intro.md
     style: _static/custom.css
-    logo_text: Welcome!
+    # logo_text: Welcome!
 
 
     
