@@ -1,7 +1,5 @@
 
-# ScienTific Artificial Intelligence TUtorials for TunNEl Design 
-<!-- # Scientific machine learning for underground constructions -->
-<!-- # Machine learning and simulation for underground constructions -->
+# STAI-TUNED: ScienTific Artificial Intelligence TUtorials for TunNEl Design 
 
 :::{epigraph}
 You see, in this world, there's two kinds of people, my friend: those with loaded guns, and those who dig.
@@ -23,24 +21,6 @@ This section will introduce you to the implementation of machine learning surrog
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-
-
-<!-- If you find this work useful, please consider citing it as: -->
-
-<!-- **APA:**
-Tristani, A. (2025). *Machine learning and simulation for underground constructions*. 
-
-**BibTeX:**
-~~~bibtex
-@misc{tristani2025mlbook,
-  author  = {Tristani, Alec},
-  title   = {Machine learning and simulation for underground constructions},
-  year    = {2025},
-  url     = {https://alec-yt.github.io},
-  license = {CC-BY-4.0}
-}
-~~~ -->
-
 
 
 ## About the author
