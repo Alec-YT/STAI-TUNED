@@ -2,7 +2,7 @@
 version: 1
 project:
   id: 4fdeff10-89e9-4dbc-b33f-113d4f6ac993
-  title: STAI-TUNED!
+  title: STAI-TUNED
   authors: [Alec Tristani]
   license: CC-BY-4.0
   bibliography:
@@ -20,9 +20,8 @@ project:
 site:
   template: book-theme
   options:
-    # index: intro.md
     style: _static/custom.css
-    # logo_text: Welcome!
+    logo_text: Welcome!
 
 
     
