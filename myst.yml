@@ -1,0 +1,28 @@
+
+version: 1
+project:
+  id: 4fdeff10-89e9-4dbc-b33f-113d4f6ac993
+  title: STAI-TUNED
+  authors: [Alec Tristani]
+  license: CC-BY-4.0
+  bibliography:
+    - my_references.bib
+  toc:
+    - title: Introduction
+      file: intro.md
+    - title: Tutorials
+      children:
+        - file: MLP_From_Scratch.ipynb
+          title: Multi-layer perceptron from scratch
+        - file: Utilidor_FEniCSx_ML_Surrogate.ipynb
+          title: Shallow tunnel surrogate modeling with FEniCSx and JAX+Equinox
+
+site:
+  template: book-theme
+  options:
+    # index: intro.md
+    style: _static/custom.css
+    logo_text: Welcome!
+
+
+    
