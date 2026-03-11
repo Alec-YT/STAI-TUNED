@@ -1,5 +1,5 @@
 
-# STAI-TUNED: ScienTific Artificial Intelligence TUtorials for TunNEl Design 
+# STAI-TUNED: ScienTific Artificial Intelligence TUtorials for tunNEl Design 
 
 :::{epigraph}
 You see, in this world, there's two kinds of people, my friend: those with loaded guns, and those who dig.
