@@ -22,8 +22,8 @@ site:
   options:
     style: _static/custom.css
     # logo: # logo if I find a good one
-    favicon: Images/activations.png
     logo_text: Welcome!
+    favicon: _static/favicon.ico
 
 
     
