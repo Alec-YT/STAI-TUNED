@@ -21,6 +21,7 @@ site:
   template: book-theme
   options:
     style: _static/custom.css
+    logo: Images/activations.png
     logo_text: Welcome!
 
 
