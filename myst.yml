@@ -23,7 +23,7 @@ site:
     style: _static/custom.css
     # logo: # logo if I find a good one
     logo_text: Welcome!
-    favicon: Images/favicon/favicon_ico # null
+    favicon: Images/favicon/favicon.ico # null
 
 
     
