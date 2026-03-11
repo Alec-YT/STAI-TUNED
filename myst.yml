@@ -23,7 +23,7 @@ site:
     style: _static/custom.css
     # logo: # logo if I find a good one
     logo_text: Welcome!
-    favicon: Images/activations.png
+    favicon: Images/eli.ico
 
 
     
